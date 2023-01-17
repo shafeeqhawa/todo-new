@@ -1,0 +1,3 @@
+config/config.jsom
+node_modules
+.env
